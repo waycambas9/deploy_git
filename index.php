@@ -1,4 +1,4 @@
 <?php
 
-	echo "testings";
+	echo "testings"
 ?>
