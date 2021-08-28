@@ -1,4 +1,4 @@
 <?php
 
-	echo "ini adalah testingan CI ku";
+	echo "ini adalah testingan CI kussss";
 ?>
